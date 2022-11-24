@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907869737536",
+    "project_id": "kjh-firebaseproject",
+    "storage_bucket": "kjh-firebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907869737536:android:b3b9c4293b7fcfeda145a5",
+        "android_client_info": {
+          "package_name": "com.mycompany.relaxbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907869737536-tu3niokgrc870p4brg5at9jon7btd8pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF-eUSeZBWnuP5IpKAZqtgKLEKBKU3Bog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907869737536-tu3niokgrc870p4brg5at9jon7btd8pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
